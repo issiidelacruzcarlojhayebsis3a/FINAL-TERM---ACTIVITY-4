@@ -1,0 +1,3 @@
+<Solution>
+  <Project Path="carlojhaye_ms.csproj" Id="a9353822-92ba-498a-b222-333b916d1251" />
+</Solution>
